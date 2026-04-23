@@ -1,4 +1,4 @@
-## Experiment 1
+## Experiment 2
 #  Sampling and Quantization of a Digital Image
 This project demonstrates the concepts of **Sampling** and **Quantization** in Digital Image Processing using Python.  
 The program visualizes how image quality changes when spatial resolution and intensity levels are reduced.
